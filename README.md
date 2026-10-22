@@ -1,5 +1,5 @@
 # F1-stack-simulator-Terrado-Blessed-Amor
-Week 11B Stack Simulator Web App Activity
+# Week 11B Stack Simulator Web App Activity
 
 # Name: Blessed Amor Terrado  
 # Section: BSIT DA 2-1
